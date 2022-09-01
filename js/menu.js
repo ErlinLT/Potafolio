@@ -15,3 +15,13 @@ window.addEventListener("click",e=>{
 gt.addEventListener("click",()=>{
     gt.classList.toggle("gt2")
 })
+
+const check2 = document.querySelector(".lenguageES")
+check2.addEventListener("click",()=>{
+    if(check2.classList!=="lenguageEN"){
+        location.href="index.html"}
+    
+})
+
+
+   
